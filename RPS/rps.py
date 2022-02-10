@@ -31,3 +31,5 @@ judge = (player - computer + 3) % 3
 
 
 print('\n'+result[judge])
+
+
